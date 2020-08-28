@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#header{
+	background-image: url("hilthart-pedersen-NDGgr9HcjuA-unsplash.jpg");
+	background-size: cover;
+	height:800px;
+	color:white;
+}
+#header h4{
+	float:left;
+	padding:50px 0px 0px 200px;
+}
+#header p{
+	float:right;
+	padding:50px 200px 0px 0px;
+}
+#header h1{
+	padding-top: 200px;
+	text-align: center;
+}
+#header h5{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+input{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: orange;
+	color:white;
+	border:none;
+	padding:10px;
+	border-radius:10px;
+}
+input:hover{
+	color:red;
+	background-color: white;
+}
+#offers{
+	text-align: center;
+	background-color: antiquewhite;
+	height:500px;
+}
+#offers h3{
+	padding: 20px;
+}
+#div1{
+	float:left;
+	width:30%;
+	text-align:center;
+	padding-left: 50px;
+}
+#div2{
+	float:left;
+	width:30%;
+	text-align:center;
+}
+#div3{
+	float:left;
+	width:30%;
+	text-align:center;
+}
+#choose{
+	background-image: url("marcus-marlowe-nR6etbSBqAE-unsplash.jpg");
+	background-size: cover;
+	height:500px;
+	color:white;
+	text-align: center;
+	padding-top:60px;
+}
+#chose1{
+	float:left;
+	 width:30%;
+	padding-top: 90px;
+	padding-left:50px;
+	color:brown;
+}
+#chose2{
+	float:left;
+	width:30%;
+	padding-top: 90px;
+	color:brown;
+}
+#chose3{
+	float:left;
+	width:30%;
+	padding-top: 90px;
+	color:brown;
+}
+#footer{
+	text-align: center;
+	padding-top: 30px;
+}
+#footer p{
+	color:darkgray;
+	padding:10px;
+}
+#footer i{
+	color:darkgray;
+	padding:10px;
+}
+#contact2{ padding-top:10px}
